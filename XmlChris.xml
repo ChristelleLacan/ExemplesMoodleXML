@@ -12,5 +12,7 @@
          <text>This is the 2nd item in the 2nd pair.</text>
      </answer>
  </subquestion>
- <shuffleanswers>false</shuffleanswers>
+
+ <shuffleanswers>true</shuffleanswers>
+
 </question>
